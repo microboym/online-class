@@ -1,0 +1,4 @@
+#header nav li a { font-size: 17px; border-style: none; box-shadow: inset 0px 0px 0px; background-color: transparent; }
+#header nav li a:hover { border-style: none; background-color: hsla(0, 0%, 87%, .3) }
+#header nav li { float: left; margin-left: 20px;}
+section #title h1 { font-size: 30px; }
